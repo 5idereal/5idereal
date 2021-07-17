@@ -3,4 +3,5 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [架設 Minecraft 伺服器 (Paper)](https://blog.siderealart.me/p/mcserver/)
 <!-- BLOG-POST-LIST:END -->
