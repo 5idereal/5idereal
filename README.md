@@ -24,4 +24,5 @@
 
 # Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=SiderealArt)](https://github.com/anuraghazra/github-readme-stats)
+[<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=SiderealArt&line_height=27.5">](https://spotify-github-profile.vercel.app/api/)
+[<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/wakatime?username=SiderealArt&layout=compact&custom_title=Language%20Used%20This%20Week&langs_count=10">](https://spotify-github-profile.vercel.app/api/)
