@@ -23,4 +23,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 # Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=SiderealArt)](https://github.com/anuraghazra/github-readme-stats)
