@@ -1,8 +1,10 @@
 # Hi! I'm SiderealArt 🖐
 
 <p align="center">
-  <a href="blog.siderealart.me">Blog</a> •
-  <a href="https://twitter.com/siderealart">Twitter</a>
+  <a href="https://blog.siderealart.me">Blog</a> •
+  <a href="https://twitter.com/siderealart">Twitter</a> •
+  <a href="https://instagram.com/enfong_tsao">Instagram</a> •
+  <a href="ww.linkedin.com/in/enfongtsao">LinkedIn</a>
 </p>
 
 [<img align="right" width="30%" src="https://spotify-github-profile.vercel.app/api/view?uid=11100682144&cover_image=true&theme=default">](https://spotify-github-profile.vercel.app/api/view?uid=11100682144&cover_image=true&theme=default)
