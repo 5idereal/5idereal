@@ -23,20 +23,5 @@
 <!-- BLOG-POST-LIST:END -->
 
 # Stats
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Markdown                 54 mins             ███████░░░░░░░░░░░░░░░░░░   31.05% 
-YAML                     53 mins             ███████░░░░░░░░░░░░░░░░░░   30.34% 
-HTML                     35 mins             █████░░░░░░░░░░░░░░░░░░░░   20.33% 
-EJS                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.39% 
-TypeScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.93%
-
-```
-
-
- Last Updated on 18/07/2021
-<!--END_SECTION:waka-->
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=SiderealArt)](https://github.com/anuraghazra/github-readme-stats)
