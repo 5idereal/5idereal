@@ -17,11 +17,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Cloud Free Tier 意外收費](https://blog.siderealart.me/p/gcp_charged/)
 - [[Discord.js] 自訂動態狀態](https://blog.siderealart.me/p/discord_rpc/)
 - [[Discord.js] 使用反應讓使用者領取身分組](https://blog.siderealart.me/p/discord_autorole/)
 - [[Discord.js] 機器人](https://blog.siderealart.me/p/discord_basicbot/)
 - [架設 Minecraft 伺服器 (Paper)](https://blog.siderealart.me/p/mcserver/)
-- [[Discord.js] 自動轉貼 Twitter 貼文至 Discord](https://blog.siderealart.me/p/twitter_to_discord/)
 <!-- BLOG-POST-LIST:END -->
 
 # Stats
