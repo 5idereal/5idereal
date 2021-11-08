@@ -21,7 +21,7 @@
 - [[Discord.js] 自訂動態狀態](https://blog.siderealart.me/p/discord_rpc/)
 - [[Discord.js] 使用反應讓使用者領取身分組](https://blog.siderealart.me/p/discord_autorole/)
 - [[Discord.js] 機器人](https://blog.siderealart.me/p/discord_basicbot/)
-- [架設 Minecraft 伺服器 (Paper)](https://blog.siderealart.me/p/mcserver/)
+- [架設 Minecraft 伺服器 &lpar;Paper&rpar;](https://blog.siderealart.me/p/mcserver/)
 <!-- BLOG-POST-LIST:END -->
 
 # Stats
