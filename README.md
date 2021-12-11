@@ -17,11 +17,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [UVa10221-Satellites 解題 &lpar;C++&rpar;](https://blog.siderealart.me/p/uva10221/)
 - [德新街53巷8號 租屋心得](https://blog.siderealart.me/p/apartment_rental/)
 - [Google Cloud Free Tier 意外收費](https://blog.siderealart.me/p/gcp_charged/)
 - [[Discord.js] 自訂動態狀態](https://blog.siderealart.me/p/discord_rpc/)
 - [[Discord.js] 使用反應讓使用者領取身分組](https://blog.siderealart.me/p/discord_autorole/)
-- [[Discord.js] 機器人](https://blog.siderealart.me/p/discord_basicbot/)
 <!-- BLOG-POST-LIST:END -->
 
 # Stats
