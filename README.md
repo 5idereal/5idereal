@@ -17,11 +17,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [將 Laravel 專案部署到 Heroku](https://blog.siderealart.me/p/laravel_heroku/)
 - [美化 Ubuntu 終端機](https://blog.siderealart.me/p/terminal_beautify/)
 - [UVa10221-Satellites 解題 &lpar;C++&rpar;](https://blog.siderealart.me/p/uva10221/)
 - [德新街53巷8號 租屋心得](https://blog.siderealart.me/p/apartment_rental/)
 - [Google Cloud Free Tier 意外收費](https://blog.siderealart.me/p/gcp_charged/)
-- [[Discord.js] 自訂動態狀態](https://blog.siderealart.me/p/discord_rpc/)
 <!-- BLOG-POST-LIST:END -->
 
 # Stats
