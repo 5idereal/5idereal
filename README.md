@@ -1,9 +1,9 @@
-# Hi! I'm SiderealArt 🖐
+# Hi! I'm 5idereal 🖐
 
 <p align="center">
-  <a href="https://blog.siderealart.me">Blog</a> •
+  <a href="https://blog.5idereal.cc">Blog</a> •
   <a href="https://twitter.com/siderealart">Twitter</a> •
-  <a href="https://instagram.com/enfong_tsao">Instagram</a> •
+  <a href="https://instagram.com/enfeng_tsao">Instagram</a> •
   <a href="ww.linkedin.com/in/enfongtsao">LinkedIn</a>
 </p>
 
