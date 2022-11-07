@@ -9,12 +9,6 @@
 
 [<img align="right" width="30%" src="https://spotify-github-profile.vercel.app/api/view?uid=11100682144&cover_image=true&theme=default">](https://spotify-github-profile.vercel.app/api/view?uid=11100682144&cover_image=true&theme=default)
 
--   :hammer_and_pick: I use **Python/JavaScript**.
--   🌱 Currently learning **Vue.js**
--   🏛 Studying **Computer Science and Information Engineering** at **National Formosa University**.
-- ✏️ I code on **Windows** and **VSCode**.
-- 💖I like **anime** and **FPS**.
-
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [將 Laravel 專案部署到 Heroku](https://blog.siderealart.me/p/laravel_heroku/)
